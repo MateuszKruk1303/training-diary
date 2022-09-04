@@ -1,9 +1,4 @@
-# NativeBase TypeScript Expo Template
+# Training diary
 
-The official NativeBase TypeScript template for [Expo](https://docs.expo.io/)
+A very simple diary/log app for people training lifting at the gym.
 
-## Usage
-
-```sh
-expo init my-app --template @native-base/expo-template-typescript
-```
